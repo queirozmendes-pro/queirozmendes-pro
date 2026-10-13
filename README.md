@@ -1,16 +1,42 @@
-## Hi there 👋
+<img src="banner.jpeg" alt="Banner: Olá, eu sou a Gicélia — Estudo hoje para aplicar amanhã" width="100%">
 
-<!--
-**queirozmendes-pro/queirozmendes-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Sobre mim
 
-Here are some ideas to get you started:
+Olá! Sou a **Gicélia** — estou em transição de carreira para a tecnologia. Depois de mais de 15 anos
+resolvendo problemas no mundo administrativo, trago essa experiência para uma nova área: **dados e
+desenvolvimento de software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Não finjo dominar tudo. O que você vê aqui é um **registro honesto** do que estudei, do que estou
+estudando e de onde quero chegar. Busco uma oportunidade para **aplicar o que aprendi** em problemas
+reais — e continuar aprendendo todos os dias.
+
+- 🎓 Técnica Especialista em Tecnologias e Programação de Sistemas de Informação (ATEC, 2026)
+- 📊 Estagiária de Business Intelligence na **Renvolt Energy** — dashboards de KPIs em Power BI
+- 💻 Desenvolvedora full-stack do projeto **MEDCEI** (Laravel 12 + Next.js) — Trabalho Final de Curso
+- 📍 Matosinhos, Portugal
+
+## 🎲 Minha trilha de estudos
+
+Um registro honesto da jornada — não um mapa do que domino:
+
+<img src="trilha.jpeg" alt="Trilha de tecnologias: já estudei vs. estudando agora" width="100%">
+
+🎲 **Quer ver a trilha de verdade, casa por casa?** Explore a versão interativa:
+👉 **[gicelia-mendes.github.io](https://gicelia-mendes.github.io)** — clique em cada casa e veja o que
+sei sobre cada tecnologia (projetos, contexto e aprendizados).
+
+## 📊 GitHub em números
+
+<img src="https://github-readme-stats.vercel.app/api?username=gicelia-mendes&show_icons=true&theme=default" alt="Estatísticas do GitHub" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gicelia-mendes&layout=compact" alt="Linguagens mais usadas" height="165">
+
+## 🤝 Vamos conversar?
+
+Estou aberta a oportunidades de estágio, júnior ou projetos onde eu possa aplicar o que aprendi e
+continuar crescendo. 🌱
+
+[![Email](https://img.shields.io/badge/Email-gicelia.mendes.t0131656%40edu.atec.pt-blue)](mailto:gicelia.mendes.t0131656@edu.atec.pt)
+[![GitHub Pages](https://img.shields.io/badge/🎲%20Trilha%20interativa-gicelia--mendes.github.io-orange)](https://gicelia-mendes.github.io)
+
+---
+*Feita com Markdown, imagens geradas por mim e muita vontade de aprender.*
