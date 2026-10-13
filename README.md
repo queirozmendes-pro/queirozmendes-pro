@@ -28,7 +28,7 @@ sei sobre cada tecnologia (projetos, contexto e aprendizados).
 ## 📊 GitHub em números
 
 <img src="https://github-readme-stats.vercel.app/api?username=queirozmendes-pro&show_icons=true&theme=default" alt="Estatísticas do GitHub" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozmendes-pro&layout=compact" alt="Linguagens mais usadas" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozmendes--pro&layout=compact" alt="Linguagens mais usadas" height="165">
 
 ## 🤝 Vamos conversar?
 
