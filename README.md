@@ -28,7 +28,7 @@ sei sobre cada tecnologia (projetos, contexto e aprendizados).
 ## 📊 GitHub em números
 
 <img src="https://github-readme-stats.vercel.app/api?username=queirozmendes-pro&show_icons=true&theme=default" alt="Estatísticas do GitHub" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozmendes--pro&layout=compact" alt="Linguagens mais usadas" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozmendes-pro&layout=compact" alt="Linguagens mais usadas" height="165">
 
 ## 🤝 Vamos conversar?
 
@@ -36,7 +36,7 @@ Estou aberta a oportunidades de estágio, júnior ou projetos onde eu possa apli
 continuar crescendo. 🌱
 
 [![Email](https://img.shields.io/badge/Email-giceliaqueiroz%40proton.me-blue)](mailto:giceliaqueiroz@proton.me)
-[![GitHub Pages](https://img.shields.io/badge/🎲%20Trilha%20interativa-queirozmendes-pro.github.io-orange)](https://queirozmendes-pro.github.io)
+[![GitHub Pages](https://img.shields.io/badge/🎲%20Trilha%20interativa-queirozmendes--pro.github.io-orange)](https://queirozmendes-pro.github.io)
 
 ---
 *Feita com Markdown, imagens geradas por mim e muita vontade de aprender.*
