@@ -15,7 +15,7 @@ reais — e continuar aprendendo todos os dias.
 - 💻 Desenvolvedora full-stack do projeto **MEDCEI** (Laravel 12 + Next.js) — Trabalho Final de Curso
 - 📍 Matosinhos, Portugal
 
-## 🎲 Minha trilha de estudos
+## 🎲 Minha trilha de estudos*
 
 Um registro honesto da jornada — não um mapa do que domino:
 
@@ -24,6 +24,7 @@ Um registro honesto da jornada — não um mapa do que domino:
 🎲 **Quer ver a trilha de verdade, casa por casa?** Explore a versão interativa:
 👉 **[queirozmendes-pro.github.io](https://queirozmendes-pro.github.io)** — clique em cada casa e veja o que
 sei sobre cada tecnologia (projetos, contexto e aprendizados).
+*Essa imagem é somente ilustrativa, a versão interativa é que terá as atualizações.
 
 ## 📊 GitHub em números
 
