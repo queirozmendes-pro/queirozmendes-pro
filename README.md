@@ -8,7 +8,8 @@ desenvolvimento de software**.
 
 Não finjo dominar tudo. O que você vê aqui é um **registro honesto** do que estudei, do que estou
 estudando e de onde quero chegar. Busco uma oportunidade para **aplicar o que aprendi** em problemas
-reais — e continuar aprendendo todos os dias.
+reais — e continuar aprendendo todos os dias. Também irei reunir projetos que estavam em outros perfis de 
+minha autoria.
 
 - 🎓 Técnica Especialista em Tecnologias e Programação de Sistemas de Informação (ATEC, 2026)
 - 📊 Estagiária de Business Intelligence na **Renvolt Energy** — dashboards de KPIs em Power BI
